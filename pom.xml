@@ -10,11 +10,11 @@
     <name>ExamplePlugin</name>
     <description>This is just an example plugin</description>
     <version>0.0.1</version>
-    <url>https://github.com/2lstudios-mc/bukkit-boilerplate</url>
+    <url>https://github.com/Wind-Development/Bukkit-Boilerplate</url>
 
     <properties>
-        <author>2LStudios</author>
-        <mainClass>dev._2lstudios.example.ExamplePlugin</mainClass>
+        <author>windcolor-dev</author>
+        <mainClass>ga.windpvp.example.ExamplePlugin</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.18.1-R0.1-SNAPSHOT</version>
+            <version>1.8.8-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>

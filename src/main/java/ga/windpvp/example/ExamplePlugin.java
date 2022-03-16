@@ -1,10 +1,10 @@
-package dev._2lstudios.example;
+package ga.windpvp.example;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import dev._2lstudios.example.commands.ExampleCommand;
-import dev._2lstudios.example.listeners.PlayerJoinListener;
-import dev._2lstudios.example.tasks.ExampleTask;
+import ga.windpvp.example.commands.ExampleCommand;
+import ga.windpvp.example.listeners.PlayerJoinListener;
+import ga.windpvp.example.tasks.ExampleTask;
 
 public class ExamplePlugin extends JavaPlugin {
     

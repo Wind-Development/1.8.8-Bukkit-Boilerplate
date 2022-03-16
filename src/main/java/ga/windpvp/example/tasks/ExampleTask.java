@@ -1,8 +1,8 @@
-package dev._2lstudios.example.tasks;
+package ga.windpvp.example.tasks;
 
 import org.bukkit.Bukkit;
 
-import dev._2lstudios.example.ExamplePlugin;
+import ga.windpvp.example.ExamplePlugin;
 
 public class ExampleTask implements Runnable {
     @Override

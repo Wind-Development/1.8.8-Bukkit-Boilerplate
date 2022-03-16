@@ -1,11 +1,11 @@
-package dev._2lstudios.example.commands;
+package ga.windpvp.example.commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
-import dev._2lstudios.example.ExamplePlugin;
+import ga.windpvp.example.ExamplePlugin;
 
 public class ExampleCommand implements CommandExecutor {
     @Override
